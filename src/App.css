@@ -1,0 +1,56 @@
+/* CommentTime */
+.CommentTime{
+  text-align: center;
+}
+/*App.js*/
+.wrapper {
+  width: 500px;
+  margin: 10px auto;
+  font-size: 14px;
+  background-color: #fff;
+  border: 1px solid #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+.button{
+  margin-top: 20px;
+}
+/* CommentInput */
+.comment-field{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+.comment-field-button{
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+.comment-field-button{
+  text-align: center;
+}
+/* comment */
+.comment{
+  position: relative;
+  box-shadow: 0 0 5px red;
+  margin-top: 10px;
+}
+.comment-user{
+  text-align: left;
+  text-indent: 2em;
+}
+.comment_username{
+  color: red;
+}
+.comment-createdtime{
+  display: block;
+  text-align: right;
+  margin-right: 20px;
+}
+.comment-delete{
+  position: absolute;
+  top: 14px;
+  right: 20px;
+}
+.comment_content{
+  display: inline-block;
+}
