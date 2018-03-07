@@ -1,6 +1,6 @@
 git init 
 
-git clone httpsgithub.comfuhanwnenToDoList.git  下载项目
+git clone https://github.com/fuhanwnen/ToDoList.git  下载项目
 
 npm install  安装依赖
 
